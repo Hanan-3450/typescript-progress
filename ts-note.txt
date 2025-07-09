@@ -1,0 +1,34 @@
+# introduction
+
+it is open source language.
+it can be used for front-end js and also backend with node.js
+its main use is to add static types to js.
+typing :- 1.dynamically typed language := types associated with run-time , it is like js e.g js,py
+        2. static typed language : types asigned to variables explicitly, e,g c++,java
+
+
+        pros
+        - makes code more robust
+        - allows to easly spot bugs 
+        - popular (2nd most loved language in 2021 
+        - makes code more readable and self -expressive
+        
+
+        cons
+        - more code to write , 
+        - reuires to learn more 
+        - it needs compilation
+        -  it's not true static typing
+
+        # compiling ts 
+        use .ts and .tsx extensions(when doing with react components)
+        TSC used to compile .ts files down to js :-
+             can watch files amd report errors at compile time
+        many tools include TS compilation by default .
+        most IDEs  and  text editors have support for TS.
+        tsconfig.json file is used to configure . contorl how typescript works .
+
+        - 
+
+
+

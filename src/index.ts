@@ -123,3 +123,13 @@ const emp = new Employee(3, "suhan", "Developer");
 //console.log(emp,register())
 
 //Generics.....
+
+function getArray(items: any[]): any[] {
+  return new Array().concat(items);
+}
+
+let numArray = getArray([1, 2, 3, 4]);
+let strArray = getArray(["han", "mom", "baba"]);
+
+//numArray.push('hello')
+strArray.push(1);
